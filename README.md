@@ -1,1 +1,6 @@
-# PYNQ-Z2-2D-Graphics-Accelerator
+# FPGA 2D Graphics Accelerator
+
+A command-driven 2D rasterizer for the PYNQ-Z2. The design draws Bresenham lines,
+rectangle outlines, and filled triangles into a 640x480 RGB444 framebuffer, then
+streams the framebuffer to the board's HDMI output using a DVI-compatible TMDS
+pipeline.
