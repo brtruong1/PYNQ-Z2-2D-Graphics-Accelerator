@@ -1,0 +1,15 @@
+.Xil/
+Graphics.cache/
+Graphics.gen/
+Graphics.hw/
+Graphics.ip_user_files/
+Graphics.runs/
+Graphics.sim/
+build/
+output/
+reports/
+*.jou
+*.log
+*.str
+*.wdb
+tmp/
